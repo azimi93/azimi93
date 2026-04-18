@@ -1,3 +1,4 @@
+<div id="stat" align="center">
 ![OT Vector's GitHub stats](https://github-readme-stats.vercel.app/api?username=azimi93&show_icons=true&theme=cobalt)
 <div id="header" align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3V1c29wZnZqOHluejJwdnV2a204bTcxMHc0Mmk3OHI2dXlqY2JnZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sKyRkwwEAKhH28zKmT/giphy.gif" width="700"/>
@@ -12,7 +13,6 @@
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  ![OT Vector's GitHub stats](https://github-readme-stats.vercel.app/api?username=azimi93&show_icons=true&theme=cobalt)
 </div>
 <!--
 **azimi93/azimi93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
