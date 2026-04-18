@@ -1,5 +1,4 @@
-align="center"
-![OT Vector's GitHub stats](https://github-readme-stats.vercel.app/api?username=azimi93&show_icons=true&theme=cobalt)
+
 <div id="header" align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3V1c29wZnZqOHluejJwdnV2a204bTcxMHc0Mmk3OHI2dXlqY2JnZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sKyRkwwEAKhH28zKmT/giphy.gif" width="700"/>
 </div>
