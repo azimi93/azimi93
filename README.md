@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3V1c29wZnZqOHluejJwdnV2a204bTcxMHc0Mmk3OHI2dXlqY2JnZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sKyRkwwEAKhH28zKmT/giphy.gif" width="1000"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3V1c29wZnZqOHluejJwdnV2a204bTcxMHc0Mmk3OHI2dXlqY2JnZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sKyRkwwEAKhH28zKmT/giphy.gif" width="700"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/zahra-azimi-b0bb8713b/">
