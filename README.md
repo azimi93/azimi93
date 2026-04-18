@@ -1,10 +1,6 @@
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif]https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3V1c29wZnZqOHluejJwdnV2a204bTcxMHc0Mmk3OHI2dXlqY2JnZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sKyRkwwEAKhH28zKmT/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-![OT Vector's GitHub stats](https://github-readme-stats.vercel.app/api?username=azimi93&show_icons=true&theme=cobalt)
-
-
-
 <!--
 **azimi93/azimi93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
