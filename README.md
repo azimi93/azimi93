@@ -1,3 +1,5 @@
+![OT Vector's GitHub stats](https://github-readme-stats.vercel.app/api?username=azimi93&show_icons=true&theme=cobalt)
+
 ## Hi there 👋
 
 <!--
