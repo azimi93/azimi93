@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![OT Vector's GitHub stats](https://github-readme-stats.vercel.app/api?username=azimi93&show_icons=true&theme=cobalt)
+![OT Vector's GitHub stats](https://github-readme-stats.vercel.app/api?username=azimi93&show_icons=true&theme=cobalt)
+
