@@ -9,7 +9,7 @@
   <a href="https://scholar.google.com/citations?user=toak8sgAAAAJ&hl=en">
     <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar Badge"/>
   </a>
-  <a href="https://orcid.org/YOUR_ORCID_ID](https://orcid.org/0009-0002-2124-1463">
+  <a href="https://orcid.org/0009-0002-2124-1463">
     <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID Badge"/>
   </a>
 </div>
